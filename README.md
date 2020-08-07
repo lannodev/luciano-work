@@ -1,4 +1,4 @@
-### Hi there, I'm Luciano 👋
+### Hi there, I'm Luciano <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
 [![pub package](https://img.shields.io/badge/me-Linkedin-blue?color=blue&style=flat-square)](https://www.linkedin.com/in/lucianowork)
 [![pub package](https://img.shields.io/badge/me-Instagram-fb3958?color=fb3958&style=flat-square)](https://www.instagram.com/lanno__)
 
