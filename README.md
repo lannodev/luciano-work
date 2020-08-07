@@ -1,10 +1,5 @@
 ### Hi there, I'm Luciano 👋
-##### I ❤️ C#, Dart and PHP
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-work&layout=compact&hide_border=true)](https://github.com/luciano-work)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-work&layout=compact&hide_border=false)](https://github.com/luciano-work)
 
 
 
