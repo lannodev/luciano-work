@@ -14,7 +14,6 @@ I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic m
 
 [we_slide]: https://github.com/luciano-work/we_slide
 
-----
 
 ### Languages, Frameworks and Tools:
 
