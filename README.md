@@ -1,14 +1,14 @@
 ### Hi there, I'm Luciano 👋
 [![pub package](https://img.shields.io/badge/me-Linkedin-blue?color=blue&style=flat-square)](https://www.linkedin.com/in/lucianowork)
 [![pub package](https://img.shields.io/badge/me-Instagram-fb3958?color=fb3958&style=flat-square)](https://www.instagram.com/lanno__)
-```
-💻 I’m currently working on this project [WeSlide][https://github.com/luciano-work/we_slide]
-🤝 I’m looking to collaborate with other content creators
-🥅 2020 Goals: Learn more about flutter
-⚡ Fun fact: I love to play guitar and make eletronic music
-```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano-work&layout=compact&hide_border=false)](https://github.com/luciano-work)
+- 💻 I’m currently working on this project [WeSlide][https://github.com/luciano-work/we_slide]
+- 🤝 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Learn more about flutter
+- ⚡ Fun fact: I love to play guitar and make eletronic music
+
+
+
 
 
 
