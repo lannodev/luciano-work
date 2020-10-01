@@ -10,7 +10,7 @@ I'm a IT Analyst and Developer from Brazil 💚,
 I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic music** 🎧
 
 * 💙 In love with Dart + Flutter
-- 🌎 I'm from São Paulo, Brazil
+* 🌎 I'm from São Paulo, Brazil
 * 💻 I’m currently working on this project [WeSlide][we_slide] 
 * 🤝 I’m looking to collaborate with other content creators
 * 🥅 2020 Goals: Learning more about flutter
