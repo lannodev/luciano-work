@@ -1,6 +1,7 @@
 ### Hi there, I'm Luciano <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
-[![pub package](https://img.shields.io/badge/me-Linkedin-blue?color=blue&style=flat-square)](https://www.linkedin.com/in/lucianowork)
-[![pub package](https://img.shields.io/badge/me-Instagram-fb3958?color=fb3958&style=flat-square)](https://www.instagram.com/lanno__)
+[![Linkedin Badge](https://img.shields.io/badge/-lucianowork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucianowork)](https://www.linkedin.com/in/lucianowork)
+[![Instagram Badge](https://img.shields.io/badge/-@lanno__-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/lanno__)](https://www.instagram.com/lanno__)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workingluciano@gmail.com)](mailto:workingluciano@gmail.com)
 
 ---- 
 
@@ -8,6 +9,8 @@ I'm a IT Analyst and Developer from Brazil 💚,
 
 I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic music** 🎧
 
+* 💙 In love with Dart + Flutter
+- 🌎 I'm from São Paulo, Brazil
 * 💻 I’m currently working on this project [WeSlide][we_slide] 
 * 🤝 I’m looking to collaborate with other content creators
 * 🥅 2020 Goals: Learning more about flutter
