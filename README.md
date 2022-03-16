@@ -2,10 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lucianowork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucianowork)](https://www.linkedin.com/in/lucianowork)
 [![Instagram Badge](https://img.shields.io/badge/-@lanno__-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/lanno__)](https://www.instagram.com/lanno__)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workingluciano@gmail.com)](mailto:workingluciano@gmail.com)
-
----- 
-
-I'm a IT Analyst and Developer from Brazil 💚,
+#
+I'm a Full Stack Developer from Brazil 💚,
 
 I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic music** 🎧
 
@@ -13,22 +11,50 @@ I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic m
 * 🌎 I'm from São Paulo, Brazil
 * 💻 I’m currently working on this project [WeSlide][we_slide] 
 * 🤝 I’m looking to collaborate with other content creators
-* 🥅 2020 Goals: Learning more about flutter
+* 🥅 2022 Goals: Learning more about Flutter, Tailwind CSS and Vue.js
 
 [we_slide]: https://github.com/luciano-work/we_slide
 
+Languages
 
-### Languages, Frameworks and Tools:
+<a href="https://dart.dev/"><img height= "24" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+<a href="https://www.javascript.com/"><img height= "24" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img height= "24" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href="https://www.php.net/"><img height= "24" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://www.apple.com/swift/"><img height= "24" src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+Frameworks
+
+<a href="https://laravel.com/"><img height= "24" src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
+<a href="https://flutter.dev/"><img height= "24" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+<a href="https://angular.io"><img height= "24" src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+<a href="https://angularjs.org/"><img height= "24" src= "https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"></a>
+<a href="https://getbootstrap.com/"><img height= "24" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="https://nodejs.org/en/"><img height= "24" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element"><img height= "24" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height= "24" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://jquery.com/"><img height= "24" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+<a href="https://www.json.org/json-en.html"><img height= "24" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
+
+Database
+
+<a href="https://www.sqlite.org/"><img height= "24" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img height= "24" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.microsoft.com/sql-server/"><img height= "24" src= "https://img.shields.io/badge/Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
+
+
+
+Tools
+
+<a href="https://code.visualstudio.com/"><img height= "24" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+<a href="https://git-scm.com/"><img height= "24" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://www.npmjs.com/"><img height= "24" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a href="https://www.apache.org/"><img height= "24" src= "https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white"></a>
+<a href="https://git-scm.com/"><img height= "24" src= "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://www.microsoft.com/windows/"><img height= "24" src= "https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"></a>
+
+
+
+
+
 
