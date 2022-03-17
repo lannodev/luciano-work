@@ -1,7 +1,9 @@
 ### Hi there, I'm Luciano <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
-[![Linkedin Badge](https://img.shields.io/badge/-lucianowork-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucianowork)](https://www.linkedin.com/in/lucianowork)
-[![Instagram Badge](https://img.shields.io/badge/-@lanno__-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/lanno__)](https://www.instagram.com/lanno__)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workingluciano@gmail.com)](mailto:workingluciano@gmail.com)
+
+<a href="https://www.linkedin.com/in/lucianowork"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/lanno__"><img height= "24" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:workingluciano@gmail.com"><img height= "24" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 #
 I'm a Full Stack Developer from Brazil 💚,
 
@@ -22,6 +24,8 @@ Languages
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img height= "24" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a href="https://www.php.net/"><img height= "24" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="https://www.apple.com/swift/"><img height= "24" src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+<a href="https://www.typescriptlang.org/"><img height= "24" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+
 
 Frameworks
 
@@ -47,7 +51,6 @@ Database
 Tools
 
 <a href="https://code.visualstudio.com/"><img height= "24" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="https://git-scm.com/"><img height= "24" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.npmjs.com/"><img height= "24" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://www.apache.org/"><img height= "24" src= "https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "24" src= "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></a>
