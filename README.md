@@ -5,8 +5,7 @@
 <a href="mailto:workingluciano@gmail.com"><img height= "24" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 #
-I'm a Full Stack Developer from Brazil 💚,
-
+I'm a Full Stack Developer from Brazil 💚,</br>
 I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic music** 🎧
 
 * 💙 In love with Dart + Flutter
