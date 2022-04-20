@@ -10,11 +10,12 @@ I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic m
 
 * 💙 In love with Dart + Flutter
 * 🌎 I'm from São Paulo, Brazil
-* 💻 I’m currently working on this project [WeSlide][we_slide] 
+* 💻 I’m currently working on this project [WeSlide][we_slide] and [Angular Tailwind][angular-tailwind] 
 * 🤝 I’m looking to collaborate with other content creators
 * 🥅 2022 Goals: Learning more about Flutter, Tailwind CSS and Vue.js
 
 [we_slide]: https://github.com/luciano-work/we_slide
+[angular-tailwind]: https://github.com/luciano-work/angular-tailwind
 
 Languages
 
