@@ -23,7 +23,7 @@ Languages
 <a href="https://www.javascript.com/"><img height= "24" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img height= "24" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a href="https://www.php.net/"><img height= "24" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://www.apple.com/swift/"><img height= "24" src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+<!-- <a href="https://www.apple.com/swift/"><img height= "24" src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a> -->
 <a href="https://www.typescriptlang.org/"><img height= "24" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
 
