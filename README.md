@@ -8,7 +8,7 @@
 I'm a Full Stack Developer from Brazil 💚💛,</br>
 I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic music** 🎧
 
-* 💙 In love with Dart + Flutter
+* 💙 In love with Flutter and Tailwind CSS
 * 🌎 I'm from São Paulo, Brazil
 * 💻 I’m currently working on this project [WeSlide][we_slide] and [Angular Tailwind][angular-tailwind] 
 * 🤝 I’m looking to collaborate with other content creators
