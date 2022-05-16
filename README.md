@@ -6,7 +6,7 @@
 
 #
 I'm a Full Stack Developer from Brazil 💚💛,</br>
-I love to **play guitar** 🎸, **make Beer** 🍺  and composing **electronic music** 🎧
+I love brewing 🍺, to play guitar 🎸 and composing electronic music 🎧
 
 * 💙 In love with Flutter and Tailwind CSS
 * 🌎 I'm from São Paulo, Brazil
@@ -23,9 +23,7 @@ Languages
 <a href="https://www.javascript.com/"><img height= "24" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img height= "24" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
 <a href="https://www.php.net/"><img height= "24" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-<!-- <a href="https://www.apple.com/swift/"><img height= "24" src= "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a> -->
 <a href="https://www.typescriptlang.org/"><img height= "24" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-
 
 Frameworks
 
@@ -45,7 +43,6 @@ Database
 <a href="https://www.sqlite.org/"><img height= "24" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="https://www.mysql.com/"><img height= "24" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.microsoft.com/sql-server/"><img height= "24" src= "https://img.shields.io/badge/Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
-
 
 
 Tools
