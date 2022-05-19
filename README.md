@@ -53,6 +53,13 @@ Tools
 <a href="https://www.microsoft.com/windows/"><img height= "24" src= "https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://www.microsoft.com/windows/"><img height= "24" alt="Brave browser" src="https://img.shields.io/badge/-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" /></a>
   
+## Support
+If you want to be kind to me, then consider buying me a beer.
+
+<a href="https://www.buymeacoffee.com/lanno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=lanno&button_colour=f39c12&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a>
+
+Thankyou!
+  
 
 
 
