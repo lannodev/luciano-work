@@ -1,68 +1,153 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
-<p>I'm Luciano, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil</p>
-<a href="https://www.linkedin.com/in/lucianowork"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/lanno__"><img height= "24" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:workingluciano@gmail.com"><img height= "24" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+### Hi there <img src="https://wefixit.com.br/signature/images/hi.gif" width="24px"> 
+<p>I'm <a href="https://lanno.dev">Luciano</a>, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil. </b><br>
+I describe myself as a passionate developer who loves coding, open source, and the web platform. I love brewing, to play guitar and one of my favourite film is Donie Darko.</p>
 
-#
-I love brewing 🍺, to play guitar 🎸 and composing electronic music 🎧
+<a href="https://www.linkedin.com/in/lucianowork"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/lanno__"><img height= "24" src= "https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:workingluciano@gmail.com"><img height= "24" src= "https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-* 💙 In love with Flutter and Tailwind CSS
-* 🌎 I'm from São Paulo, Brazil
-* 💻 I’m currently working on this project [WeSlide][we_slide] and [Angular Tailwind][angular-tailwind] 
-* 🤝 I’m looking to collaborate with other content creators
-* 🥅 2022 Goals: Learning more about Flutter, Tailwind CSS and Vue.js
+<h3>Things I code with</h3>
+<p>
+    <img src= "https://img.shields.io/badge/Dart-7c3aed?style=flat-square&logo=dart&logoColor=white">
+    <img src= "https://img.shields.io/badge/JavaScript-7c3aed?style=flat-square&logo=javascript&logoColor=white">
+    <img src= "https://img.shields.io/badge/C%23-7c3aed?style=flat-square&logo=c-sharp&logoColor=white">
+    <img src= "https://img.shields.io/badge/PHP-7c3aed?style=flat-square&logo=php&logoColor=white">
+    <img src= "https://img.shields.io/badge/TypeScript-7c3aed?style=flat-square&logo=typescript&logoColor=white">
+    <img src= "https://img.shields.io/badge/Laravel-7c3aed?style=flat-square&logo=laravel&logoColor=white">
+    <img src= "https://img.shields.io/badge/Flutter-7c3aed?style=flat-square&logo=flutter&logoColor=white">
+    <img src= "https://img.shields.io/badge/Angular-7c3aed?style=flat-square&logo=angular&logoColor=white">
+    <img src= "https://img.shields.io/badge/AngularJS-7c3aed?style=flat-square&logo=angularjs&logoColor=white">
+    <img src= "https://img.shields.io/badge/Bootstrap-7c3aed?style=flat-square&logo=bootstrap&logoColor=white">
+    <img src= "https://img.shields.io/badge/Node.js-7c3aed?style=flat-square&logo=nodedotjs&logoColor=white">
+    <img src= "https://img.shields.io/badge/HTML5-7c3aed?style=flat-square&logo=html5&logoColor=white">
+    <img src= "https://img.shields.io/badge/CSS3-7c3aed?style=flat-square&logo=css3&logoColor=white">
+    <img src= "https://img.shields.io/badge/jQuery-7c3aed?style=flat-square&logo=jquery&logoColor=white">
+    <img src= "https://img.shields.io/badge/SQLite-7c3aed?style=flat-square&logo=sqlite&logoColor=white">
+    <img src= "https://img.shields.io/badge/MySQL-7c3aed?style=flat-square&logo=mysql&logoColor=white">
+    <img src= "https://img.shields.io/badge/Microsoft_SQL-7c3aed?style=flat-square&logo=microsoft-sql-server&logoColor=white">
+    <img src= "https://img.shields.io/badge/VS_Code-7c3aed?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+    <!-- <img src= "https://img.shields.io/badge/npm-7c3aed?style=flat-square&logo=npm&logoColor=white"> -->
+    <img src= "https://img.shields.io/badge/Apache-7c3aed?style=flat-square&logo=apache&logoColor=white">
+    <img src= "https://img.shields.io/badge/Git-7c3aed?style=flat-square&logo=git&logoColor=white">
+    <img src= "https://img.shields.io/badge/Windows-7c3aed?style=flat-square&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/-Brave-7c3aed?style=flat-square&logo=brave&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Insomnia-7c3aed?style=flat-square&logo=insomnia&logoColor=white" />
+<p>
 
-[we_slide]: https://github.com/luciano-work/we_slide
-[angular-tailwind]: https://github.com/luciano-work/angular-tailwind
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td align="left"><b>Projects</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Issues</b></td>
+      <td><b>Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/luciano-work/we_slide">
+          <b>WeSlide (Flutter)</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/luciano-work/we_slide?colorA=fbbf24&colorB=fbbf24&style=flat-square">
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/luciano-work/we_slide?colorA=4ade80&colorB=4ade80&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/we_slide?colorA=ef4444&colorB=ef4444&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luciano-work/we_slide?colorA=7c3aed&colorB=7c3aed&style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/luciano-work/night-storm-theme">
+          <b>Night Storm (Vscode Theme)</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/luciano-work/night-storm-theme?colorA=fbbf24&colorB=fbbf24&style=flat-square">
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/luciano-work/night-storm-theme?colorA=4ade80&colorB=4ade80&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/night-storm-theme?colorA=ef4444&colorB=ef4444&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luciano-work/night-storm-theme?colorA=7c3aed&colorB=7c3aed&style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/luciano-work/insomnia-plugin-theme-night-storm">
+          <b>Night Storm (Insomnia Theme)</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/luciano-work/insomnia-plugin-theme-night-storm?colorA=fbbf24&colorB=fbbf24&style=flat-square">
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/luciano-work/insomnia-plugin-theme-night-storm?colorA=4ade80&colorB=4ade80&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/insomnia-plugin-theme-night-storm?colorA=ef4444&colorB=ef4444&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luciano-work/insomnia-plugin-theme-night-storm?colorA=7c3aed&colorB=7c3aed&style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/luciano-work/neoretro">
+          <b>Neoretro Dark (Pegasus Theme)</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/luciano-work/neoretro?colorA=fbbf24&colorB=fbbf24&style=flat-square">
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/luciano-work/neoretro?colorA=4ade80&colorB=4ade80&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/neoretro?colorA=ef4444&colorB=ef4444&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luciano-work/neoretro?colorA=7c3aed&colorB=7c3aed&style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/luciano-work/angular-tailwind">
+          <b>Angular Tailwind</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/luciano-work/angular-tailwind?colorA=fbbf24&colorB=fbbf24&style=flat-square">
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/luciano-work/angular-tailwind?colorA=4ade80&colorB=4ade80&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/angular-tailwind?colorA=ef4444&colorB=ef4444&style=flat-square"/>
+      </td>
+      <td>
+        <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luciano-work/angular-tailwind?colorA=7c3aed&colorB=7c3aed&style=flat-square"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Languages
 
-<a href="https://dart.dev/"><img height= "24" src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-<a href="https://www.javascript.com/"><img height= "24" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img height= "24" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-<a href="https://www.php.net/"><img height= "24" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-<a href="https://www.typescriptlang.org/"><img height= "24" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-
-Frameworks
-
-<a href="https://laravel.com/"><img height= "24" src= "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
-<a href="https://flutter.dev/"><img height= "24" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-<a href="https://angular.io"><img height= "24" src= "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
-<a href="https://angularjs.org/"><img height= "24" src= "https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"></a>
-<a href="https://getbootstrap.com/"><img height= "24" src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="https://nodejs.org/en/"><img height= "24" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element"><img height= "24" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img height= "24" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a href="https://jquery.com/"><img height= "24" src= "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-<a href="https://www.json.org/json-en.html"><img height= "24" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
-
-Database
-
-<a href="https://www.sqlite.org/"><img height= "24" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-<a href="https://www.mysql.com/"><img height= "24" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="https://www.microsoft.com/sql-server/"><img height= "24" src= "https://img.shields.io/badge/Microsoft_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></a>
-
-
-Tools
-
-<a href="https://code.visualstudio.com/"><img height= "24" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="https://www.npmjs.com/"><img height= "24" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
-<a href="https://www.apache.org/"><img height= "24" src= "https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white"></a>
-<a href="https://git-scm.com/"><img height= "24" src= "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></a>
-<a href="https://www.microsoft.com/windows/"><img height= "24" src= "https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="https://www.microsoft.com/windows/"><img height= "24" alt="Brave browser" src="https://img.shields.io/badge/-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" /></a>
-  
 ## Support
 If you want to be kind to me, then consider buying me a beer.
 
-<a href="https://www.buymeacoffee.com/lanno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=lanno&button_colour=f39c12&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/lanno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&slug=lanno&button_colour=fbbf24&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=fbbf24"></a>
 
 Thankyou!
-  
-
-
-
-
-
-
