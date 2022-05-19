@@ -1,11 +1,10 @@
-### Hi there, I'm Luciano <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
-
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> 
+<p>I'm Luciano, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil</p>
 <a href="https://www.linkedin.com/in/lucianowork"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/lanno__"><img height= "24" src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:workingluciano@gmail.com"><img height= "24" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 #
-I'm a Full Stack Developer from Brazil 💚💛,</br>
 I love brewing 🍺, to play guitar 🎸 and composing electronic music 🎧
 
 * 💙 In love with Flutter and Tailwind CSS
@@ -52,6 +51,8 @@ Tools
 <a href="https://www.apache.org/"><img height= "24" src= "https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white"></a>
 <a href="https://git-scm.com/"><img height= "24" src= "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.microsoft.com/windows/"><img height= "24" src= "https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="https://www.microsoft.com/windows/"><img height= "24" alt="Brave browser" src="https://img.shields.io/badge/-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" /></a>
+  
 
 
 
