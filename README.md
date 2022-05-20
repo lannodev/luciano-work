@@ -8,30 +8,30 @@ I describe myself as a passionate developer who loves coding, open source, and t
 
 <h3>Things I code with</h3>
 <p>
-    <img src= "https://img.shields.io/badge/Dart-7c3aed?style=flat-square&logo=dart&logoColor=white">
-    <img src= "https://img.shields.io/badge/JavaScript-7c3aed?style=flat-square&logo=javascript&logoColor=white">
-    <img src= "https://img.shields.io/badge/C%23-7c3aed?style=flat-square&logo=c-sharp&logoColor=white">
-    <img src= "https://img.shields.io/badge/PHP-7c3aed?style=flat-square&logo=php&logoColor=white">
-    <img src= "https://img.shields.io/badge/TypeScript-7c3aed?style=flat-square&logo=typescript&logoColor=white">
-    <img src= "https://img.shields.io/badge/Laravel-7c3aed?style=flat-square&logo=laravel&logoColor=white">
-    <img src= "https://img.shields.io/badge/Flutter-7c3aed?style=flat-square&logo=flutter&logoColor=white">
-    <img src= "https://img.shields.io/badge/Angular-7c3aed?style=flat-square&logo=angular&logoColor=white">
-    <img src= "https://img.shields.io/badge/AngularJS-7c3aed?style=flat-square&logo=angularjs&logoColor=white">
-    <img src= "https://img.shields.io/badge/Bootstrap-7c3aed?style=flat-square&logo=bootstrap&logoColor=white">
-    <img src= "https://img.shields.io/badge/Node.js-7c3aed?style=flat-square&logo=nodedotjs&logoColor=white">
-    <img src= "https://img.shields.io/badge/HTML5-7c3aed?style=flat-square&logo=html5&logoColor=white">
-    <img src= "https://img.shields.io/badge/CSS3-7c3aed?style=flat-square&logo=css3&logoColor=white">
-    <img src= "https://img.shields.io/badge/jQuery-7c3aed?style=flat-square&logo=jquery&logoColor=white">
-    <img src= "https://img.shields.io/badge/SQLite-7c3aed?style=flat-square&logo=sqlite&logoColor=white">
-    <img src= "https://img.shields.io/badge/MySQL-7c3aed?style=flat-square&logo=mysql&logoColor=white">
-    <img src= "https://img.shields.io/badge/Microsoft_SQL-7c3aed?style=flat-square&logo=microsoft-sql-server&logoColor=white">
-    <img src= "https://img.shields.io/badge/VS_Code-7c3aed?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+    <img src= "https://img.shields.io/badge/Dart-ef4444?style=flat-square&logo=dart&logoColor=white">
+    <img src= "https://img.shields.io/badge/JavaScript-f97316?style=flat-square&logo=javascript&logoColor=white">
+    <img src= "https://img.shields.io/badge/C%23-f59e0b?style=flat-square&logo=c-sharp&logoColor=white">
+    <img src= "https://img.shields.io/badge/PHP-eab308?style=flat-square&logo=php&logoColor=white">
+    <img src= "https://img.shields.io/badge/TypeScript-84cc16?style=flat-square&logo=typescript&logoColor=white">
+    <img src= "https://img.shields.io/badge/Laravel-22c55e?style=flat-square&logo=laravel&logoColor=white">
+    <img src= "https://img.shields.io/badge/Flutter-10b981?style=flat-square&logo=flutter&logoColor=white">
+    <img src= "https://img.shields.io/badge/Angular-14b8a6?style=flat-square&logo=angular&logoColor=white">
+    <img src= "https://img.shields.io/badge/AngularJS-06b6d4?style=flat-square&logo=angularjs&logoColor=white">
+    <img src= "https://img.shields.io/badge/Bootstrap-0ea5e9?style=flat-square&logo=bootstrap&logoColor=white">
+    <img src= "https://img.shields.io/badge/Node.js-3b82f6?style=flat-square&logo=nodedotjs&logoColor=white">
+    <img src= "https://img.shields.io/badge/HTML5-6366f1?style=flat-square&logo=html5&logoColor=white">
+    <img src= "https://img.shields.io/badge/CSS3-8b5cf6?style=flat-square&logo=css3&logoColor=white">
+    <img src= "https://img.shields.io/badge/jQuery-a855f7?style=flat-square&logo=jquery&logoColor=white">
+    <img src= "https://img.shields.io/badge/SQLite-d946ef?style=flat-square&logo=sqlite&logoColor=white">
+    <img src= "https://img.shields.io/badge/MySQL-ec4899?style=flat-square&logo=mysql&logoColor=white">
+    <img src= "https://img.shields.io/badge/Microsoft_SQL-f43f5e?style=flat-square&logo=microsoft-sql-server&logoColor=white">
+    <img src= "https://img.shields.io/badge/VS_Code-e11d48?style=flat-square&logo=visual%20studio%20code&logoColor=white">
     <!-- <img src= "https://img.shields.io/badge/npm-7c3aed?style=flat-square&logo=npm&logoColor=white"> -->
-    <img src= "https://img.shields.io/badge/Apache-7c3aed?style=flat-square&logo=apache&logoColor=white">
-    <img src= "https://img.shields.io/badge/Git-7c3aed?style=flat-square&logo=git&logoColor=white">
-    <img src= "https://img.shields.io/badge/Windows-7c3aed?style=flat-square&logo=windows&logoColor=white">
+    <img src= "https://img.shields.io/badge/Apache-db2777?style=flat-square&logo=apache&logoColor=white">
+    <img src= "https://img.shields.io/badge/Git-c026d3?style=flat-square&logo=git&logoColor=white">
+    <img src= "https://img.shields.io/badge/Windows-9333ea?style=flat-square&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/-Brave-7c3aed?style=flat-square&logo=brave&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Insomnia-7c3aed?style=flat-square&logo=insomnia&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Insomnia-4f46e5?style=flat-square&logo=insomnia&logoColor=white" />
 <p>
 
 <h3>Open source projects</h3>
