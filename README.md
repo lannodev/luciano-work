@@ -49,7 +49,10 @@ I describe myself as a passionate developer who loves coding, open source, and t
     <tr>
       <td>
         <a href="https://github.com/luciano-work/we_slide">
-          <b>WeSlide (Flutter) +200 Likes</b>
+          <b>WeSlide (Flutter)</b>
+        </a><br>
+        <a href="https://pub.dev/packages/we_slide">
+          +200 Likes
         </a>
       </td>
       <td>
