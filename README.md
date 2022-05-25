@@ -49,7 +49,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
     <tr>
       <td>
         <a href="https://github.com/luciano-work/we_slide">
-          <b>WeSlide (Flutter)</b>
+          <b>WeSlide (Flutter) +200 Likes</b>
         </a>
       </td>
       <td>
@@ -87,7 +87,9 @@ I describe myself as a passionate developer who loves coding, open source, and t
     <tr>
       <td>
         <a href="https://github.com/luciano-work/insomnia-plugin-theme-night-storm">
-          <b>Night Storm (Insomnia Theme)</b></br>
+          <b>Night Storm (Insomnia Theme)</b>
+        </a><br>
+        <a href="https://insomnia.rest/plugins">
             TOP 5 Most Downloads 
             <img src="https://cdn-icons.flaticon.com/png/512/2450/premium/2450311.png?token=exp=1653491761~hmac=4f1df51d9de0b1b1e8465cd1a12198d3" width="20"/>
         </a>
