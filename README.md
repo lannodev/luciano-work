@@ -87,7 +87,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
         </a><br>
         <a href="https://insomnia.rest/plugins">
             TOP 5 Most Downloads 
-            <img src="https://cdn-icons.flaticon.com/png/512/2450/premium/2450311.png?token=exp=1653491761~hmac=4f1df51d9de0b1b1e8465cd1a12198d3" width="20"/>
+            <img src="https://cdn-icons-png.flaticon.com/512/610/610333.png" width="20"/>
         </a>
       </td>
       <td>
