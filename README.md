@@ -1,6 +1,6 @@
 ### Hi there <img src="https://wefixit.com.br/signature/images/hi.gif" width="24"> 
 <p>I'm <a href="https://lanno.dev">Luciano</a>, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil. </b><br>
-I describe myself as a passionate developer who loves coding, open source, and the web platform. I love brewing, to play guitar and one of my favourite film is Donie Darko.</p>
+I describe myself as a passionate developer who loves coding, open source, and the web platform. I love brewing, to play guitar and one of my favourite film is Donnie Darko.</p>
 
 <a href="https://www.linkedin.com/in/lucianowork"><img height= "24" src= "https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/lanno__"><img height= "24" src= "https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"></a>
