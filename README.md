@@ -139,6 +139,6 @@ I describe myself as a passionate developer who loves coding, open source, and t
 ## Support
 If you want to be kind to me, then consider buying me a beer.
 
-<a href="https://www.buymeacoffee.com/lanno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&slug=lanno&button_colour=fbbf24&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=fbbf24"></a>
+<a href="https://www.buymeacoffee.com/lanno"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=lanno&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 Thankyou!
