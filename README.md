@@ -132,6 +132,22 @@ I describe myself as a passionate developer who loves coding, open source, and t
         <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/angular-tailwind?style=flat-square&labelColor=343b41&colorB=e74c3c"/>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/luciano-work/vue-resume">
+          <b>Vue Resume</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/luciano-work/vue-resume?style=flat-square&labelColor=343b41&colorB=3498db">
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/luciano-work/vue-resume?style=flat-square&labelColor=343b41&colorB=27ae60"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/vue-resume?style=flat-square&labelColor=343b41&colorB=e74c3c"/>
+      </td>
+    </tr>
   </tbody>
 </table>
 
