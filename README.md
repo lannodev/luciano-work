@@ -32,6 +32,7 @@ I describe myself as a passionate developer who loves coding, open source, and t
     <img src= "https://img.shields.io/badge/Windows-84cc16?style=flat-square&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/-Brave-22c55e?style=flat-square&logo=brave&logoColor=white" />
     <img src="https://img.shields.io/badge/-Insomnia-10b981?style=flat-square&logo=insomnia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind -0ea5e9?style=flat-square&logo=tailwind-css&logoColor=white" />
 <p>
 
 <h3>Open source projects</h3>
