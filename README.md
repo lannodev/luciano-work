@@ -65,6 +65,22 @@ I describe myself as a passionate developer who loves coding, open source, and t
         <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/we_slide?style=flat-square&labelColor=343b41&colorB=e74c3c"/>
       </td>
     </tr>
+      <tr>
+      <td>
+        <a href="https://github.com/luciano-work/angular-tailwind">
+          <b>Angular Tailwind</b>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/luciano-work/angular-tailwind?style=flat-square&labelColor=343b41&colorB=3498db">
+      </td>
+      <td>
+        <img alt="Forks" src="https://img.shields.io/github/forks/luciano-work/angular-tailwind?style=flat-square&labelColor=343b41&colorB=27ae60"/>
+      </td>
+      <td>
+        <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/angular-tailwind?style=flat-square&labelColor=343b41&colorB=e74c3c"/>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/luciano-work/night-storm-theme">
@@ -115,22 +131,6 @@ I describe myself as a passionate developer who loves coding, open source, and t
       </td>
       <td>
         <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/neoretro?style=flat-square&labelColor=343b41&colorB=e74c3c"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/luciano-work/angular-tailwind">
-          <b>Angular Tailwind</b>
-        </a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/stars/luciano-work/angular-tailwind?style=flat-square&labelColor=343b41&colorB=3498db">
-      </td>
-      <td>
-        <img alt="Forks" src="https://img.shields.io/github/forks/luciano-work/angular-tailwind?style=flat-square&labelColor=343b41&colorB=27ae60"/>
-      </td>
-      <td>
-        <img alt="Issues" src="https://img.shields.io/github/issues/luciano-work/angular-tailwind?style=flat-square&labelColor=343b41&colorB=e74c3c"/>
       </td>
     </tr>
     <tr>
