@@ -1,3 +1,5 @@
+<img align="right" alt="My avatar from figma - www.figma.com" height="150" src="https://i.imgur.com/Z6uSuhb.png">
+
 ### Hi there <img src="https://wefixit.com.br/signature/images/hi.gif" width="24"> 
 <p>I'm <a href="https://lanno.dev">Luciano</a>, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Paulo, Brazil. </b><br>
 I describe myself as a passionate developer who loves coding, open source, and the web platform. I love brewing, to play guitar and one of my favourite film is Donnie Darko.</p>
